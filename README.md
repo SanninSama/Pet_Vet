@@ -17,7 +17,7 @@ Pet Vet é um aplicativo que criei como projeto durante a faculdade e disponibil
 
 ## Instalação
 
-!!!!! Certifique-se de ter o Yarn instalado no seu sistema. Se ainda não o tiver, você pode instalá-lo seguindo as instruções em [Yarn Installation](https://classic.yarnpkg.com/en/docs/install) !!!!!
+Certifique-se de ter o Yarn instalado no seu sistema. Se ainda não o tiver, você pode instalá-lo seguindo as instruções em [Yarn Installation](https://classic.yarnpkg.com/en/docs/install)
 
 Após a instalação do Yarn, siga estas etapas:
 
