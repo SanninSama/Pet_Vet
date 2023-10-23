@@ -4,12 +4,12 @@ Pet Vet é um aplicativo que criei como projeto durante a faculdade e disponibil
 
 ## Tabela de Conteúdo
 
-- Demonstração
-- Instalação
-- Uso
-- Recursos
-- Contribuição
-- Licença
+- [Demonstração](#demonstração)
+- [Instalação](#instalação)
+- [Uso](#uso)
+- [Recursos](#recursos)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
 
 ## Demonstração
 
@@ -43,4 +43,3 @@ Neste momento, não houve contribuições para o projeto.
 ## Licença
 
 Este projeto não possui uma licença especificada.
-
