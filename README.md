@@ -1,6 +1,6 @@
 # Pet Vet
 
-Pet Vet é um aplicativo que criei como projeto durante a faculdade e disponibilizei aqui no GitHub para fazer parte do meu portfólio. Para começar, você precisará ter o Yarn instalado no seu computador, e o expo no ceu celular, que está disponível na Google Play e na App Store, e seguir as instruções abaixo.
+Pet Vet é um aplicativo que criei como projeto durante a faculdade e disponibilizei aqui no GitHub para fazer parte do meu portfólio.
 
 ## Tabela de Conteúdo
 
